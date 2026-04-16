@@ -1,0 +1,330 @@
+{:version 1,
+ :blocks
+ ({:block/id #uuid "e2c3e265-1de5-4b72-9360-baecac347c56",
+   :block/page-name "Contents",
+   :block/properties nil,
+   :block/children
+   ({:block/id #uuid "69df4279-d505-4c01-96f2-8908fffefaf7",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""})}
+  {:block/id #uuid "69df4277-8fc4-4345-a36d-cad12fae2cc0",
+   :block/page-name "Apr 15th, 2026",
+   :block/properties nil,
+   :block/format :markdown,
+   :block/children
+   ({:block/id #uuid "69df43c6-e265-46ab-81d5-2bd018da6b9b",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children
+     [{:block/id #uuid "69df44e7-b610-42e5-ae65-fcac49cfecaf",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "69df4aef-3ce2-447f-b069-607a05382408",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content ""}
+        {:block/id #uuid "69df4597-68f9-4692-a59a-5c55fdf3c03b",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "69df48cc-94e4-4848-8051-82305c79c7de",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "không được trả bởi dành nhiều thời gian đâu."}
+          {:block/id #uuid "69df4b0b-fbee-4511-ad0a-e44d5788b40e",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content "1 đó là thái độ trước ết"}],
+         :block/content
+         "tiền bạc: mình nhận được tiền bạc vì cung cấp được cho thị trường 1 giá trị nhất định - phải mất thời gian để mang giá trị cho thị trường ấy nữa"}
+        {:block/id #uuid "69df490b-9ed2-429d-ac49-821c68d1c524",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content "nấc thang tiền bạc: 5$ -> 80k$ trên 1h."}
+        {:block/id #uuid "69df49c9-6adf-4ca0-a10a-e686e20f6854",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children [],
+         :block/content
+         "Tại sao nhiều người chỉ được trả 5$/1h\nVì họ không có nhiều giá trị trong thị trường này."}
+        {:block/id #uuid "69df4a9e-7823-477b-b95a-890efa0a3b63",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "69df4b77-6fa3-4176-9b6c-136f89cd4a69",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "69df4c14-d9a0-49f8-bb94-5c9e23c8d5b4",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children
+             [{:block/id #uuid "69df4c49-1c56-4278-ae84-7db22f6c1514",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content
+               "nếu tôi vẫn là 1 cậu trai nghèo ở Việt Nam với tư duy nghèo nàn thì sẽ chẳng có ai gọi điện cho tôi để thuê tôi"}],
+             :block/content
+             "Tôi phải tạo ra giá trị cao hơn cho mức giá mà người ta thuê tôi"}
+            {:block/id #uuid "69df4de6-00bc-41a2-b144-4bf54967be06",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Học từ chính kinh nghiệm bài học mình đã trãi qua trong cuộc sống của mình"}
+            {:block/id #uuid "69df4e46-9adb-4872-aed8-1822c1ea012d",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children
+             [{:block/id #uuid "69df4e7a-c298-4f39-9588-329645e2ed36",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children
+               [{:block/id
+                 #uuid "69df4eb8-09c6-4891-bf7b-5e54fc03fa48",
+                 :block/properties nil,
+                 :block/format :markdown,
+                 :block/children [],
+                 :block/content "học cách ghi chép lại"}],
+               :block/content
+               "học từ kinh nghiệm trãi nghiệm thất bại"}
+              {:block/id #uuid "69df4e8c-e040-4af1-8abf-ebfc3849954b",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content
+               "học từ bài học thành công của những người khác"}
+              {:block/id #uuid "69df4ef0-d335-4dbc-becc-99cd7db8fe32",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content
+               "quan sát, lắng nghe, cách họ tư duy, cách họ hành động"}],
+             :block/content "Học từ chính kinh nghiệm của người khác"}
+            {:block/id #uuid "69df4fa7-6fad-48f1-814c-90e74559c847",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children
+             [{:block/id #uuid "69df4fdb-d00c-496d-91c7-75dbf2cc26fe",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children
+               [{:block/id
+                 #uuid "69df5043-08cb-472a-b2be-c9b249da2383",
+                 :block/properties nil,
+                 :block/format :markdown,
+                 :block/children [],
+                 :block/content
+                 "ghi chép những bài học mình học được"}],
+               :block/content
+               "Đầu tư vào thư viện của mình thay vì những thứ vô bổ xung quanh"}],
+             :block/content
+             "Đọc tất cả các loại sách liên quan đến cuộc đời của mình"}],
+           :block/content
+           "Phải làm việc chăm chỉ hơn cho chính mình chứ không phải cho công việc của mình. \nTôi làm việc là để nâng tầm của mình lên, để trở thành người hấp dẫn với thị trường."}],
+         :block/content
+         "Để leo lên được các nấc thang thu nhập như 80tr$/ 1 năm - thì phải là 1 người có giá trị làm được việc cho 1 cty làm ra 1ty$/ năm. Bất kế xuất phát điểm ở đâu."}],
+       :block/content "phát triển bản thân"}
+      {:block/id #uuid "69df4590-faec-4955-a24b-1a0fb8b66df2",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "69df518b-ad1f-4db5-bd53-904b9cc2009f",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "69df51a9-33a1-4a26-bcf6-e75406197edb",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "là ngôi trường dạy các bài học khiến mình thông tuệ hơn"}
+          {:block/id #uuid "69df51c5-34e5-491a-8e59-1867c9eeecb0",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "Đừng sử dụng quá khứ để đè nặng lên đôi vai bản thân"}],
+         :block/content "1 Cảm nhận thế nào về quá khứ"}
+        {:block/id #uuid "69df5199-0ad7-49dd-bacc-c1cf7abb588a",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "69df5205-1d36-491e-8c74-e499719d30af",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "69df523e-2f29-4131-a85d-d35611da8a64",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "1 là kiến trúc sư cho tương lai\n2 là nạn nhân cho tương lai"}],
+           :block/content
+           "Những lời hứa hẹn, mục tiêu trong tương lai ra sao"}
+          {:block/id #uuid "69df5288-97fd-4022-90f5-da4ff4811f00",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "69df52a6-14ca-4cf2-9e44-2435314061e3",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Kỹ năng gì, du lịch đến đâu, thu nhập thế nào, thói quen tốt nào tôi muốn có, thời gian tôi dành cho gia đình, bạn thân, người xung quanh ra sao, gặp những ai --- phải nghiêm túc giành thời gian ra suy nghĩ những điều này"}
+            {:block/id #uuid "69df5ba1-1bd1-4638-9dd7-d8a38746853b",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children
+             [{:block/id #uuid "69df5f1e-0389-492c-9141-143ced9f0326",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content
+               "Rồi tự mình sẽ thấy thật thú vị khi có những cái tích như vậy"}],
+             :block/content
+             "Viết ra các danh sách các mong muốn và giữ lại chúng - tích chọn vào những điều mà mình đã làm được"}],
+           :block/content
+           "Mục tiêu rõ ràng thì sẽ sẵn sàng trả giá để đạt được mục tiêu đó"}],
+         :block/content "2 Bản thân nghĩ về tương lai ra sao?"}
+        {:block/id #uuid "69df5f71-09b1-4a8e-a839-1409699a4d72",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "69df5f99-0e43-4bd9-a900-fc4cc8e95414",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "Tất nhiên phải trả giá cho mục tiêu lớn, nhiều người sợ, nhưng một khi đã rõ ràng được rồi thì mình sẽ sẵn sàng để trả giá"}
+          {:block/id #uuid "69df636b-f55e-49c3-8d1b-c91f5d8557a9",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "Một phụmục tiêu tốt phải là nột mục tiêu giúp mình làm sao học được 1 cái gì đó, giúp mình phát triển, chứ không phải là 1 mục tiêu gì đó xa vời."}
+          {:block/id #uuid "69df6154-1075-46b6-bbb6-269e0a727ef6",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "69df6232-9bd9-4fff-bfed-40757507da1c",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Đó mới là giá trị chứ không phải là số tiền tôi kiếm được"}],
+           :block/content
+           "Khi có 1 mục tiêu càng lớn thì sự phân tâm và xao nhãn của mình càng ít\nKhi đạt được mục tiêu 1tr đô thì số tiền không phải là điều quan trọng nhất. Mà con người mà tôi trở thành đó mới là quan trọng: những hiểu biết về thị trường, kỹ năg mà tôi có thì đó mới là đều quan trọng."}],
+         :block/content
+         "3 Nếu tương lai rõ ràng thì phần thưởng rất là đơn giản"}],
+       :block/content "thiết lập mục tiêu"}
+      {:block/id #uuid "69df45bb-4fbd-4933-b399-c623ce70e49e",
+       :block/properties nil,
+       :block/format :markdown,
+       :block/children
+       [{:block/id #uuid "69df6526-17c4-40dc-b54c-5e550cb8f7ec",
+         :block/properties nil,
+         :block/format :markdown,
+         :block/children
+         [{:block/id #uuid "69df6543-9b6a-43d2-85a7-ed925755c1a4",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "Để lọc ra được đâu là điều tốt với mình và đâu là điều vô ích với mình"}
+          {:block/id #uuid "69df657f-ac0a-49b3-a977-9920a9c37c18",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "1 triết lý của người nghèo: tiêu sài hết tiền sau đó mới đầu tư"}
+          {:block/id #uuid "69df68bc-6621-4b8e-9709-736ccc48c056",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children [],
+           :block/content
+           "2 triết lý của người giàu: đầu tư vào những thứ có giá trị trước sau phần còn lại mới tiêu sài"}
+          {:block/id #uuid "69df692f-e5c7-4069-ba39-d1b63bdd6a9c",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "69df6aa4-2b68-4a26-9a75-94d120e50b52",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Quy luật đơn giản là không được tiêu sài hết tiền của mình"}
+            {:block/id #uuid "69df6b29-4c97-4cb8-8078-a21ab069955b",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children
+             [{:block/id #uuid "69df6b51-0e02-4e61-9b79-466596c6fee6",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content
+               "Tùy theo mức độ những gì mà mình cần phải chi trả, thiết yếu"}
+              {:block/id #uuid "69df6ebd-53c8-4595-b509-ca2dd015c5d4",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content "10cent trong 30 cent thì từ thiện"}
+              {:block/id #uuid "69e05a6e-4770-4566-9e2e-ee9ec79b2d10",
+               :block/properties nil,
+               :block/format :markdown,
+               :block/children [],
+               :block/content
+               "10 cent tiếp theo là tài sản chủ động -- ví dụ mua thứ gì đó 7cent bán ra 10cent"}],
+             :block/content
+             "Nếu có 1 đô la thì đừng bao giờ tiêu hơn 70cen trong 1 đô"}],
+           :block/content
+           "Điều quan trọng không phải là số tiền mình có hiện tại, mà là mình sử  dụng chúng như thế nào."}
+          {:block/id #uuid "69e05b02-a68e-4e8d-94a7-085d45193990",
+           :block/properties nil,
+           :block/format :markdown,
+           :block/children
+           [{:block/id #uuid "69e05b4c-fb07-4a41-a5b0-f8aa9d53e609",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content "quy luật lãi kép"}
+            {:block/id #uuid "69e05b68-3057-4513-b4c0-bcf9c2d3b97e",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content "Đầu tư vào cổ phiếu."}
+            {:block/id #uuid "69e05c45-0a97-4bef-9218-ac56813809af",
+             :block/properties nil,
+             :block/format :markdown,
+             :block/children [],
+             :block/content
+             "Học xem cách quy luật đồng tiền hoạt động như thế nào"}],
+           :block/content
+           "Triết lý lợi nhuận lúc nào cũng tốt hơn tiền lương"}],
+         :block/content "Trước hết phải có triết lý đúng"}],
+       :block/content "làm thế nào để đạt được tự do tài chính"}],
+     :block/content "3 chủ đề quan trọng"}
+    {:block/id #uuid "69df450e-5d1f-4028-aeea-3e7b1d36969e",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "69df4511-091e-4d4f-893f-c984dbad0492",
+     :block/properties nil,
+     :block/format :markdown,
+     :block/children [],
+     :block/content ""}
+    {:block/id #uuid "69e05d4d-8396-4719-a155-4beff59ed5d3",
+     :block/properties nil,
+     :block/format :markdown, 
+     :block/children [], 
+     :block/content ""})})}
